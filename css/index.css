@@ -1,0 +1,87 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/58/07/cb/5807cb0b5633bd3eeb974d11813a5b30.jpg');
+    max-width: 1200px;
+}
+
+#menu ul {
+    list-style:none;
+    margin:0px;
+    padding:3px;
+    text-align: center;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li a {
+    display: inline-block;
+    padding: 10px 10px;
+    border: 1px solid #203040;
+    color: #5ea8c5;
+    text-decoration: #BBBBBB;
+}
+
+#menu ul li a:hover {
+    border: 1px solid #5ea8c5;
+    box-shadow: inset 0px 0px 50px 50px #5EA8C5;
+    color: #FFFFFF;
+    -moz-transform: translateX(-5%) translateY(-5%) rotate(-3deg);
+    -ms-transform: translateX(-5%) translateY(-5%) rotate(-3deg);
+    transform: translateX(-5%) translateY(-5%) rotate(-3deg);
+    transition: 3s;
+    -webkit-transform: translateX(-5%) translateY(-5%) rotate(-3deg);
+}
+
+h1 {
+    color: #5ea8c5;
+    font-size: 50px;
+    text-align: center;
+}
+
+.img-contato {
+    background-color: #221e1f;
+    max-width: 70px;
+}
+
+#contato  {
+    display: inline-block;
+    font-size: 0px;
+    position: fixed;
+    left: 0px;
+    width: 20%;
+}
+
+#contato ul {
+    list-style:none;
+    margin:0px;
+    padding:0px;
+    text-align: left;
+}
+
+#contato ul li img {
+    /* border: 0.01px solid #203040; */
+    border: 2px solid #203040;
+	color: #FFF;
+}
+
+#contato ul li img:hover {
+    box-shadow: inset 0px 0px 50px 50px #5EA8C5;
+    -moz-transform: translateX(-5%) translateY(-5%) rotate(-3deg);
+    -ms-transform: translateX(-5%) translateY(-5%) rotate(-3deg);
+    transform: translateX(-5%) translateY(-5%) rotate(-3deg);
+    transition: 3s;
+    -webkit-transform: translateX(-5%) translateY(-5%) rotate(-3deg);
+}
+
+footer {
+    color: #5ea8c5;
+    font-size: 12px;
+    margin-right: 0px;
+    margin-left: inherit;
+    margin-right: auto;
+    padding-left: 10px;
+    text-align: center;
+    width: 100%;
+    margin-top: auto;
+}
