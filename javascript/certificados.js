@@ -9,7 +9,7 @@ function adiciona_icone(titulo_curso, link_certificado, link_icone) {
 }
 
 async function getData() {
-    const response = await fetch('https://raw.githubusercontent.com/ViniViniAntunes/vini-antunes-personal-page/master/javascript/data_certificates_final.csv');
+    const response = await fetch('http://ViniViniAntunes.github.io/javascript/data_certificates_final.csv');
     const data = await response.text();
     
     var allRows = data.split(/\r?\n|\r/).slice(1);
