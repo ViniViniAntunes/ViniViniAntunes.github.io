@@ -39,9 +39,15 @@ body {
     -webkit-transform: translateX(-5%) translateY(-5%) rotate(-3deg);
 }
 
-h1 {
+.site-title {
     color: #5ea8c5;
     font-size: 30px;
+    text-align: center;
+}
+
+.site-subtitle {
+    color: #5ea8c5;
+    font-size: 12px;
     text-align: center;
 }
 
