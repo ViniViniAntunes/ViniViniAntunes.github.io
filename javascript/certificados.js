@@ -2,8 +2,8 @@ function adiciona_icone(titulo_curso, link_certificado, link_icone) {
     var div_icones = document.getElementById('icones_cursos')
     novo_icone = ""
     novo_icone += "<span data-tooltip='" + titulo_curso + "'>"
-    novo_icone += "<a href='" + link_certificado + "' alt='" + titulo_curso + "'>"
-    novo_icone += "<img src='" + link_icone + "'></a>"
+    novo_icone += "<a href='" + link_certificado + "'>"
+    novo_icone += "<img src='" + link_icone + "' alt='" + titulo_curso + "'></a>"
     novo_icone += "</span>"
     div_icones.innerHTML = div_icones.innerHTML + novo_icone
 }
