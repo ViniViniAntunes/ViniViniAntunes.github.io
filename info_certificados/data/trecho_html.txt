@@ -250,15 +250,15 @@
 				</a>
 			</span>
 
-			<span data-tooltip='Data Science: Modelos de regressão por baixo dos panos'>
-				<a href='https://cursos.alura.com.br/certificate/003cc5d4-fe44-4626-b88f-d97810d60f3b'>
-				<img src='https://www.alura.com.br/assets/api/cursos/data-science-regressao-linear.svg' alt='Data Science: Modelos de regressão por baixo dos panos'>
-				</a>
-			</span>
-
 			<span data-tooltip='Estatística com Python parte 3: Testes de hipóteses'>
 				<a href='https://cursos.alura.com.br/certificate/062683a5-658c-437e-9f79-00d56da1d622'>
 				<img src='https://www.alura.com.br/assets/api/cursos/estatistica-testes-hipotestes.svg' alt='Estatística com Python parte 3: Testes de hipóteses'>
+				</a>
+			</span>
+
+			<span data-tooltip='Data Science: Modelos de regressão por baixo dos panos'>
+				<a href='https://cursos.alura.com.br/certificate/003cc5d4-fe44-4626-b88f-d97810d60f3b'>
+				<img src='https://www.alura.com.br/assets/api/cursos/data-science-regressao-linear.svg' alt='Data Science: Modelos de regressão por baixo dos panos'>
 				</a>
 			</span>
 
@@ -409,6 +409,12 @@
 			<span data-tooltip='Machine Learning: Classificação por trás dos panos'>
 				<a href='https://cursos.alura.com.br/certificate/2fca5153-2ad6-47d0-bc1f-e39037b94f28'>
 				<img src='https://www.alura.com.br/assets/api/cursos/introducao-a-machine-learning-com-classificacao.svg' alt='Machine Learning: Classificação por trás dos panos'>
+				</a>
+			</span>
+
+			<span data-tooltip='Machine Learning: Lidando com dados de muitas dimensões'>
+				<a href='https://cursos.alura.com.br/certificate/33e93ef7-3315-45e7-a1b5-98b26cffae47'>
+				<img src='https://www.alura.com.br/assets/api/cursos/reducao-dimensionalidade.svg' alt='Machine Learning: Lidando com dados de muitas dimensões'>
 				</a>
 			</span>
 
