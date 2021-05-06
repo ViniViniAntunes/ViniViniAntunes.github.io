@@ -29,7 +29,7 @@ body {
     -moz-transform: translateX(-5%) translateY(-5%) rotate(-3deg);
     -ms-transform: translateX(-5%) translateY(-5%) rotate(-3deg);
     transform: translateX(-5%) translateY(-5%) rotate(-3deg);
-    transition: 3s;
+    transition: 1s;
     -webkit-transform: translateX(-5%) translateY(-5%) rotate(-3deg);
 }
 
@@ -70,7 +70,7 @@ h1 {
     -moz-transform: translateX(-5%) translateY(-5%) rotate(-3deg);
     -ms-transform: translateX(-5%) translateY(-5%) rotate(-3deg);
     transform: translateX(-5%) translateY(-5%) rotate(-3deg);
-    transition: 3s;
+    transition: 1s;
     -webkit-transform: translateX(-5%) translateY(-5%) rotate(-3deg);
 }
 
