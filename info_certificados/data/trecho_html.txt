@@ -394,9 +394,9 @@
 				</a>
 			</span>
 
-			<span data-tooltip='Introdução à experimentação: Análise de experimentos.'>
+			<span data-tooltip='Introdução à experimentação: Análise de experimentos'>
 				<a href='https://cursos.alura.com.br/certificate/78de0a88-d8b1-4b10-83a6-38f6a5b1648e'>
-				<img src='https://www.alura.com.br/assets/api/cursos/analise-de-experimentos.svg' alt='Introdução à experimentação: Análise de experimentos.'>
+				<img src='https://www.alura.com.br/assets/api/cursos/analise-de-experimentos.svg' alt='Introdução à experimentação: Análise de experimentos'>
 				</a>
 			</span>
 
@@ -415,6 +415,60 @@
 			<span data-tooltip='Machine Learning: Lidando com dados de muitas dimensões'>
 				<a href='https://cursos.alura.com.br/certificate/33e93ef7-3315-45e7-a1b5-98b26cffae47'>
 				<img src='https://www.alura.com.br/assets/api/cursos/reducao-dimensionalidade.svg' alt='Machine Learning: Lidando com dados de muitas dimensões'>
+				</a>
+			</span>
+
+			<span data-tooltip='Fundamentals of Databricks SQL'>
+				<a href='https://academy.databricks.com/award/completion/c05bb6ed-f7ae-3a3e-b64f-6a663cf5d1c1'>
+				<img src='https://avatars.githubusercontent.com/u/4998052?s=280&v=4' alt='Fundamentals of Databricks SQL'>
+				</a>
+			</span>
+
+			<span data-tooltip='Fundamentals of Databricks Machine Learning'>
+				<a href='https://academy.databricks.com/award/completion/0b8befc8-2f41-3d27-bb35-55b321697ce1'>
+				<img src='https://avatars.githubusercontent.com/u/4998052?s=280&v=4' alt='Fundamentals of Databricks Machine Learning'>
+				</a>
+			</span>
+
+			<span data-tooltip='Fundamentals of Big Data'>
+				<a href='https://academy.databricks.com/award/completion/78747f2c-c146-3076-93cd-1aeb5a5f7a4a'>
+				<img src='https://avatars.githubusercontent.com/u/4998052?s=280&v=4' alt='Fundamentals of Big Data'>
+				</a>
+			</span>
+
+			<span data-tooltip='Fundamentals of Enterprise Data Management Systems'>
+				<a href='https://academy.databricks.com/award/completion/eeb6ce67-b088-34e0-b65a-17a0713dcf0e'>
+				<img src='https://avatars.githubusercontent.com/u/4998052?s=280&v=4' alt='Fundamentals of Enterprise Data Management Systems'>
+				</a>
+			</span>
+
+			<span data-tooltip='Fundamentals of Machine Learning'>
+				<a href='https://academy.databricks.com/award/completion/3dd15bf6-f4ce-34b3-8463-2562a3c72875'>
+				<img src='https://avatars.githubusercontent.com/u/4998052?s=280&v=4' alt='Fundamentals of Machine Learning'>
+				</a>
+			</span>
+
+			<span data-tooltip='Fundamentals of Structured Streaming'>
+				<a href='https://academy.databricks.com/award/completion/789e59da-cb40-3724-a931-0bc76e104344'>
+				<img src='https://avatars.githubusercontent.com/u/4998052?s=280&v=4' alt='Fundamentals of Structured Streaming'>
+				</a>
+			</span>
+
+			<span data-tooltip='1. Fundamentals of the Databricks Lakehouse Platform Accreditation'>
+				<a href='https://academy.databricks.com/award/completion/a4bb9e86-9431-3894-8700-999cffdb18ce'>
+				<img src='https://avatars.githubusercontent.com/u/4998052?s=280&v=4' alt='1. Fundamentals of the Databricks Lakehouse Platform Accreditation'>
+				</a>
+			</span>
+
+			<span data-tooltip='Fundamentals to SQL on Databricks'>
+				<a href='https://academy.databricks.com/award/completion/7f82ce15-bc92-3b91-8706-982870a8303a'>
+				<img src='https://avatars.githubusercontent.com/u/4998052?s=280&v=4' alt='Fundamentals to SQL on Databricks'>
+				</a>
+			</span>
+
+			<span data-tooltip='SQL Coding Challenges'>
+				<a href='https://academy.databricks.com/award/completion/cfc535d7-8aed-3722-a186-8100b91f6bc4'>
+				<img src='https://avatars.githubusercontent.com/u/4998052?s=280&v=4' alt='SQL Coding Challenges'>
 				</a>
 			</span>
 
