@@ -384,7 +384,7 @@
 
 			<span data-tooltip='Introdução à Ciência da Computação com Python - Parte 2'>
 				<a href='https://www.coursera.org/account/accomplishments/certificate/MUS9DFLFGG8P'>
-				<img src='https://images.educamaisbrasil.com.br/content/superior/instituicao/logo/g/usp.png' alt='Introdução à Ciência da Computação com Python - Parte 2'>
+				<img src='https://sites.usp.br/laaae/wp-content/uploads/sites/746/2020/11/usp_branco.png' alt='Introdução à Ciência da Computação com Python - Parte 2'>
 				</a>
 			</span>
 
@@ -483,9 +483,14 @@
 				</a>
 			</span>
 
-
 			<span data-tooltip='Business Intelligence: Introdução à inteligência empresarial'>
 				<a href='https://cursos.alura.com.br/certificate/8f4e6f97-423f-4c5d-afd4-6ae938855235'>
 				<img src='https://www.alura.com.br/assets/api/cursos/business-intelligence-introducao-inteligencia-empresarial.svg' alt='Business Intelligence: Introdução à inteligência empresarial'>
+				</a>
+			</span>
+
+			<span data-tooltip='Power BI Desktop: Construindo meu primeiro dashboard'>
+				<a href='https://cursos.alura.com.br/certificate/4f22af6c-b24e-4559-9854-e0078fa8404d'>
+				<img src='https://www.alura.com.br/assets/api/cursos/power-bi-desktop-primeiro-dashboard.svg' alt='Power BI Desktop: Construindo meu primeiro dashboard'>
 				</a>
 			</span>
