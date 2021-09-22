@@ -500,3 +500,15 @@
 				<img src='https://www.alura.com.br/assets/api/cursos/power-bi-desktop-tratamento-dados-power-query.svg' alt='Power BI Desktop: Tratamento de dados no Power Query'>
 				</a>
 			</span>
+
+			<span data-tooltip='Power BI: Entendendo as fórmulas DAX'>
+				<a href='https://cursos.alura.com.br/certificate/894f8d9f-8761-408a-ac0d-37d6509b831b'>
+				<img src='https://www.alura.com.br/assets/api/cursos/power-bi-formulas-dax.svg' alt='Power BI: Entendendo as fórmulas DAX'>
+				</a>
+			</span>
+
+			<span data-tooltip='Power BI Desktop: Carregue, analise e visualize dados'>
+				<a href='https://cursos.alura.com.br/certificate/47a6700b-a7ba-4823-a4c1-e8c4e09690e6'>
+				<img src='https://www.alura.com.br/assets/api/cursos/power-bi-desktop.svg' alt='Power BI Desktop: Carregue, analise e visualize dados'>
+				</a>
+			</span>
