@@ -10,7 +10,7 @@
     }
 
     async function getData() {
-        const response = await fetch("../data_certificates_final.csv");
+        const response = await fetch("../javascript/data_certificates_final.csv");
         const data = await response.text();
 
         var allRows = data.split(/\r?\n|\r/).slice(1);
