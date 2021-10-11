@@ -10,7 +10,8 @@
     }
 
     async function getData() {
-        const response = await fetch("../javascript/data_certificates_final.csv");
+        const url = "https://raw.githubusercontent.com/ViniViniAntunes/ViniViniAntunes.github.io/main/info_certificados/data/data_certificates_final.csv";
+        const response = await fetch(url);
         const data = await response.text();
 
         var allRows = data.split(/\r?\n|\r/).slice(1);
