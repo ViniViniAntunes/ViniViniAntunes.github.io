@@ -58,4 +58,35 @@
         // console.log(linkEmail.firstElementChild.attributes['alt'].value);
         enviaEvento('contato', 'email', 'link_externo');
     });
+    
+
+
+
+    // Click no link da Home
+    const linkEmail = document.querySelector('[data-link-home]');
+    linkEmail.addEventListener('click', function () {
+        // console.log(linkEmail.firstElementChild.attributes['alt'].value);
+        enviaEvento('header', 'home', 'home');
+    });
+    
+    // Click no link do email
+    const linkEmail = document.querySelector('[data-link-sobre]');
+    linkEmail.addEventListener('click', function () {
+        // console.log(linkEmail.firstElementChild.attributes['alt'].value);
+        enviaEvento('contato', 'sobre', 'link_externo');
+    });
+    
+    // Click no link do email
+    const linkEmail = document.querySelector('[data-link-portfolio]');
+    linkEmail.addEventListener('click', function () {
+        // console.log(linkEmail.firstElementChild.attributes['alt'].value);
+        enviaEvento('contato', 'portfolio', 'link_externo');
+    });
+    
+    // Click no link do email
+    const linkEmail = document.querySelector('[data-link-cursos-realizados]');
+    linkEmail.addEventListener('click', function () {
+        // console.log(linkEmail.firstElementChild.attributes['alt'].value);
+        enviaEvento('contato', 'cursos_realizados', 'cursos_realizados');
+    });
 })();
