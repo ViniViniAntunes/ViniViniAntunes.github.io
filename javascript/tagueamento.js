@@ -41,7 +41,6 @@
     // Click no link do GitHub
     const linkGitHub = document.querySelector('[data-link-github]');
     linkGitHub.addEventListener('click', function (event) {
-        event.preventDefault();
         // console.log(linkGitHub.firstElementChild.attributes['alt'].value);
         enviaEvento('contato', 'github', 'link_externo');
     });
