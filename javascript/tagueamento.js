@@ -1,12 +1,3 @@
-// <!-- Global site tag (gtag.js) - Google Analytics -->
-// <script async src="https://www.googletagmanager.com/gtag/js?id=G-0C1NQV2WQJ"></script>
-// <script>
-//       window.dataLayer = window.dataLayer || [];
-//     function gtag(){dataLayer.push(arguments);}
-//     gtag('js', new Date());
-
-//   gtag('config', 'G-0C1NQV2WQJ');
-// </script>
 (() => {
     // Implementando a função que carrega o pixel do Google Analytics
     function carregaGTag() {
@@ -21,7 +12,7 @@
     // Carregando o pixel do Google Analytics
     carregaGTag();
 
-    // Inicializando a o Google Analytics
+    // Inicializando o Google Analytics
     window.dataLayer = window.dataLayer || [];
     function gtag() {
         dataLayer.push(arguments);
@@ -40,7 +31,7 @@
 
     // Click no link do GitHub
     const linkGitHub = document.querySelector('[data-link-github]');
-    linkGitHub.addEventListener('click', function (event) {
+    linkGitHub.addEventListener('click', function () {
         // console.log(linkGitHub.firstElementChild.attributes['alt'].value);
         enviaEvento('contato', 'github', 'link_externo');
     });
@@ -58,32 +49,29 @@
         // console.log(linkEmail.firstElementChild.attributes['alt'].value);
         enviaEvento('contato', 'email', 'link_externo');
     });
-    
 
-
-
-    // Click no link da Home
+    // Click no link "Home"
     const linkEmail = document.querySelector('[data-link-home]');
     linkEmail.addEventListener('click', function () {
         // console.log(linkEmail.firstElementChild.attributes['alt'].value);
         enviaEvento('header', 'home', 'home');
     });
     
-    // Click no link do email
+    // Click no link "Sobre"
     const linkEmail = document.querySelector('[data-link-sobre]');
     linkEmail.addEventListener('click', function () {
         // console.log(linkEmail.firstElementChild.attributes['alt'].value);
         enviaEvento('contato', 'sobre', 'link_externo');
     });
     
-    // Click no link do email
+    // Click no link "Portfolio"
     const linkEmail = document.querySelector('[data-link-portfolio]');
     linkEmail.addEventListener('click', function () {
         // console.log(linkEmail.firstElementChild.attributes['alt'].value);
         enviaEvento('contato', 'portfolio', 'link_externo');
     });
     
-    // Click no link do email
+    // Click no link "Cursos Realizados"
     const linkEmail = document.querySelector('[data-link-cursos-realizados]');
     linkEmail.addEventListener('click', function () {
         // console.log(linkEmail.firstElementChild.attributes['alt'].value);
